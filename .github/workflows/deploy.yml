@@ -1,8 +1,9 @@
 name: Deploy
 
+
 on:
   push:
-    branches: [ main ]
+    branches: [ foo ] # Disbled, we deploy manually
 
 jobs:
   test:
