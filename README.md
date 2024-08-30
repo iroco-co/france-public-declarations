@@ -2,7 +2,7 @@
 
 The terms in this collection are declared by Iroco and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
-You can [explore the tracked versions](https://github.com/OpenTermsArchive/demo-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/demo-versions/releases) in the `OpenTermsArchive/demo-versions` repository.
+You can [explore the tracked versions](https://github.com/iroco-co/france-public-versions) interactively or [download them as a dataset](https://github.com/iroco-co/france-public-versions/releases) in the `iroco-co/france-public-versions` repository.
 
 ## Scope
 
