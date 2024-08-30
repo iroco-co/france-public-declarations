@@ -1,4 +1,4 @@
-# Declarations of terms tracked in the *France Public* collection
+# Declarations of terms tracked in the *france-public* collection
 
 The terms in this collection are declared by Iroco Team and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
