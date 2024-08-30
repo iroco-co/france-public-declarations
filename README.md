@@ -1,6 +1,6 @@
 # Declarations of terms tracked in the *france-public* collection
 
-The terms in this collection are declared by Iroco Team and tracked using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are declared by Iroco and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
 You can [explore the tracked versions](https://github.com/OpenTermsArchive/demo-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/demo-versions/releases) in the `OpenTermsArchive/demo-versions` repository.
 
@@ -10,7 +10,7 @@ The terms you will find in this collection match the following scope:
 
 - **Topic:** <!-- customize to your context -->The services needed to operate the Open Terms Archive engine<!-- until here -->
 - **Jurisdictions:** <!-- customize to your context -->European Union<!-- until here -->
-- **Languages:** <!-- customize to your context -->English<!-- until here -->
+- **Languages:** <!-- customize to your context -->French<!-- until here -->
 
 - - -
 
