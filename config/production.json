@@ -4,8 +4,8 @@
       "versions": {
         "storage": {
           "git": {
-            "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/demo-snapshots/commit/%SNAPSHOT_ID",
-            "repository": "git@github.com:OpenTermsArchive/demo-versions.git",
+            "snapshotIdentiferTemplate": "https://github.com/iroco-co/france-public-snapshots/commit/%SNAPSHOT_ID",
+            "repository": "ssh://git@ssh.github.com:443/iroco-co/france-public-versions.git",
             "path": "./data/versions"
           }
         }
@@ -13,14 +13,14 @@
       "snapshots": {
         "storage": {
           "git": {
-            "repository": "git@github.com:OpenTermsArchive/demo-snapshots.git",
+            "repository": "ssh://git@ssh.github.com:443/iroco-co/france-public-snapshots.git",
             "path": "./data/snapshots"
           }
         }
       }
     },
     "fetcher": {
-      "language": "en"
+      "language": "fr"
     },
     "notifier": {
       "sendInBlue": {
@@ -31,15 +31,15 @@
     "reporter": {
       "githubIssues": {
         "repositories": {
-          "declarations": "OpenTermsArchive/demo-declarations",
-          "versions": "OpenTermsArchive/demo-versions",
-          "snapshots": "OpenTermsArchive/demo-snapshots"
+          "declarations": "iroco-co/france-public-declarations",
+          "versions": "iroco-co/france-public-versions",
+          "snapshots": "iroco-co/france-public-snapshots"
         }
       }
     },
     "dataset": {
-      "title": "demo",
-      "versionsRepositoryURL": "https://github.com/OpenTermsArchive/demo-versions"
+      "title": "",
+      "versionsRepositoryURL": "https://github.com/iroco-co/france-public-versions"
     },
     "collection-api": {
       "port": 3000,
