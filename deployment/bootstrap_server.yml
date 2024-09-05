@@ -1,0 +1,43 @@
+- hosts: ota.iroco.co
+  become: true
+  become_method: sudo
+
+  tasks:
+    - name: Create a user 'ota' with a home directory
+      ansible.builtin.user:
+        name: ota
+        create_home: yes
+
+    - name: Create ssh dir for user 'ota'
+      ansible.builtin.file:
+        path: /home/ota/.ssh
+        state: directory
+        mode: '0700'
+
+    - name: Create known_hosts for user 'ota'
+      ansible.builtin.file:
+        path: /home/ota/.ssh/known_hosts
+        state: touch
+        owner: ota
+        group: ota
+        mode: '0600'
+        modification_time: preserve
+        access_time: preserve
+
+    - name: Copy 'ota' user public key
+      ansible.builtin.copy:
+        src: github-bot-public-key
+        dest: /home/ota/.ssh/authorized_keys
+        owner: ota
+        group: ota
+        mode: '0600'
+
+    - name: Allow the 'ota' user to run any commands
+      community.general.sudoers:
+        name: ota-sudo
+        state: present
+        user: ota
+        nopassword: true
+        commands: ALL
+
+

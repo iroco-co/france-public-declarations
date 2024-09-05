@@ -38,7 +38,7 @@
       }
     },
     "dataset": {
-      "title": "",
+      "title": "France Public Service",
       "versionsRepositoryURL": "https://github.com/iroco-co/france-public-versions"
     },
     "collection-api": {
