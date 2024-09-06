@@ -12,6 +12,8 @@
       ansible.builtin.file:
         path: /home/ota/.ssh
         state: directory
+        owner: ota
+        group: ota
         mode: '0700'
 
     - name: Create known_hosts for user 'ota'
