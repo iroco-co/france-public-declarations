@@ -5,7 +5,7 @@
         "storage": {
           "git": {
             "snapshotIdentiferTemplate": "https://github.com/iroco-co/france-public-snapshots/commit/%SNAPSHOT_ID",
-            "repository": "ssh://git@ssh.github.com:443/iroco-co/france-public-versions.git",
+            "repository": "git@github.com:iroco-co/france-public-versions.git",
             "path": "./data/versions"
           }
         }
@@ -13,7 +13,7 @@
       "snapshots": {
         "storage": {
           "git": {
-            "repository": "ssh://git@ssh.github.com:443/iroco-co/france-public-snapshots.git",
+            "repository": "git@github.com:iroco-co/france-public-snapshots.git",
             "path": "./data/snapshots"
           }
         }
