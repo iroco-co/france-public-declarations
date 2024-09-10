@@ -6,6 +6,12 @@
       "select": [
         "#articleContainer"
       ]
+    },
+    "Privacy Policy": {
+      "fetch": "https://mes-aides.francetravail.fr/confidentialite",
+      "select": [
+        "#articleContainer"
+      ]
     }
   }
 }
