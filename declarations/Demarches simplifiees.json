@@ -9,7 +9,8 @@
       "remove": [
         ".leading-snug",
         ".leading-tight",
-        "a.group"
+        "a.group",
+        "p:has(time)"
       ]
     }
   }
