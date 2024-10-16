@@ -5,7 +5,8 @@
       "fetch": "https://nosgestesclimat.fr/politique-de-confidentialite",
       "select": [
         "main"
-      ]
+      ],
+      "executeClientScripts": true
     }
   }
 }
