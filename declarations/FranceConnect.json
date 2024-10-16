@@ -6,7 +6,8 @@
       "select": {
         "startAfter": "#main-nav",
         "endBefore": "footer"
-      }
+      },
+      "executeClientScripts": true
     }
   }
 }
