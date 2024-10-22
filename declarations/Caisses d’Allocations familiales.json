@@ -8,7 +8,8 @@
       ],
       "remove": [
         ".region-breadcrumb"
-      ]
+      ],
+      "executeClientScripts": true
     },
     "Imprint": {
       "fetch": "https://www.caf.fr/allocataires/mentions-legales",
@@ -17,7 +18,8 @@
       ],
       "remove": [
         ".region-breadcrumb"
-      ]
+      ],
+      "executeClientScripts": true
     }
   }
 }
