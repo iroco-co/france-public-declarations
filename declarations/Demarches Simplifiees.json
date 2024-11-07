@@ -1,0 +1,11 @@
+{
+  "name": "Démarches Simplifiées",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.demarches-simplifiees.fr/suivi",
+      "select": [
+        "#contenu"
+      ]
+    }
+  }
+}
