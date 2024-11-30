@@ -1,5 +1,5 @@
 {
-  "name": "Démarches simplifiées",
+  "name": "Demarches simplifiees",
   "documents": {
     "Terms of Service": {
       "fetch": "https://doc.demarches-simplifiees.fr/cgu",
@@ -11,6 +11,12 @@
         ".leading-tight",
         "a.group",
         "p:has(time)"
+      ]
+    },
+    "Imprint": {
+      "fetch": "https://www.demarches-simplifiees.fr/mentions-legales",
+      "select": [
+        "#legal-notice"
       ]
     }
   }
