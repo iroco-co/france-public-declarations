@@ -1,0 +1,36 @@
+id: france-public
+name: France Public Services
+tagline: French main public services
+description: |
+  The **France public services** collection tracks changes to the terms of use of most used French public services.
+  
+  [Description to be completed]
+dataset: https://github.com/iroco-co/france-public-versions/releases
+declarations: https://github.com/iroco-co/france-public-declarations
+versions: https://github.com/iroco-co/france-public-versions
+snapshots: https://github.com/iroco-co/france-public-snapshots
+logo: https://opentermsarchive.org/images/collections/france-public-services.png
+languages: [fr]
+jurisdictions: [EU]
+trackingPeriods:
+  - startDate: 2024-09-17
+    schedule: "30 */12 * * *"
+    serverLocation: Roubaix, FR
+governance:
+  Iroco:
+    url: https://iroco.co
+    logo: [URL vers le logo Iroco au format PNG optimisé, dimensions 440x440px max]
+    roles: [host, administrator, curator, maintainer]
+  Volunteer contributors:
+    roles: [curator, maintainer]
+i18n:
+  fr: 
+    name: France Services Publics
+    tagline: Services publics français majeurs
+    description: | 
+      La collection **France Services Publics** suit les modifications apportées aux conditions d'utilisation des services publics français les plus utilisés.
+      
+      [Traduction de la description à compléter]
+    governance:
+      Volunteer contributors:
+        name: Contributeurs bénévoles
