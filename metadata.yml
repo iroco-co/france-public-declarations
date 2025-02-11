@@ -3,8 +3,6 @@ name: France Public Services
 tagline: French main public services
 description: |
   The **France public services** collection tracks changes to the terms of use of most used French public services.
-  
-  [Description to be completed]
 dataset: https://github.com/iroco-co/france-public-versions/releases
 declarations: https://github.com/iroco-co/france-public-declarations
 versions: https://github.com/iroco-co/france-public-versions
@@ -19,7 +17,7 @@ trackingPeriods:
 governance:
   Iroco:
     url: https://iroco.co
-    logo: [URL vers le logo Iroco au format PNG optimisé, dimensions 440x440px max]
+    logo: https://iroco.co/iroco.png
     roles: [host, administrator, curator, maintainer]
   Volunteer contributors:
     roles: [curator, maintainer]
@@ -29,8 +27,6 @@ i18n:
     tagline: Services publics français majeurs
     description: | 
       La collection **France Services Publics** suit les modifications apportées aux conditions d'utilisation des services publics français les plus utilisés.
-      
-      [Traduction de la description à compléter]
     governance:
       Volunteer contributors:
         name: Contributeurs bénévoles
