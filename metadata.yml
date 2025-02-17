@@ -7,6 +7,7 @@ dataset: https://github.com/iroco-co/france-public-versions/releases
 declarations: https://github.com/iroco-co/france-public-declarations
 versions: https://github.com/iroco-co/france-public-versions
 snapshots: https://github.com/iroco-co/france-public-snapshots
+donations: https://opencollective.com/opentermsarchive/projects/france-public-services
 logo: https://opentermsarchive.org/images/collections/france-public-services.png
 languages: [fr]
 jurisdictions: [EU]
