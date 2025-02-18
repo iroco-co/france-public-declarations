@@ -1,6 +1,6 @@
 {
   "name": "FranceConnect",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://franceconnect.gouv.fr/cgu",
       "select": {

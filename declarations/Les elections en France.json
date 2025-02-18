@@ -1,6 +1,6 @@
 {
   "name": "Les élections en France",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.elections.interieur.gouv.fr/mentions-legales",
       "select": [

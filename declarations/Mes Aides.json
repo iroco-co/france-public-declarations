@@ -1,6 +1,6 @@
 {
   "name": "Mes Aides",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://mes-aides.francetravail.fr/cgu",
       "select": [

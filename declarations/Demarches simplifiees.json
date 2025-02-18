@@ -1,6 +1,6 @@
 {
   "name": "Demarches simplifiees",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://doc.demarches-simplifiees.fr/cgu",
       "select": [

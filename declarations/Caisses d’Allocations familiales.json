@@ -1,6 +1,6 @@
 {
   "name": "Caisses d’Allocations familiales",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.caf.fr/allocataires/informatique-et-libertes",
       "select": [

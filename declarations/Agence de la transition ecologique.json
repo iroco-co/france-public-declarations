@@ -1,6 +1,6 @@
 {
   "name": "Agence de la transition écologique",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.ademe.fr/conditions-generales-dutilisation/",
       "select": [

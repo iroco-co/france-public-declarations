@@ -1,6 +1,6 @@
 {
   "name": "Démarches Simplifiées",
-  "documents": {
+  "terms": {
     "Privacy Policy": {
       "fetch": "https://www.demarches-simplifiees.fr/suivi",
       "select": [
