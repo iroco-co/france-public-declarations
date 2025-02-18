@@ -1,8 +1,8 @@
 id: france-public
 name: France Public Services
-tagline: French main public services
+tagline: French digital public services
 description: |
-  The **France public services** collection tracks changes to the terms of use of most used French public services.
+  The **France public services** collection tracks changes to the terms of use of French digital public services.
 dataset: https://github.com/iroco-co/france-public-versions/releases
 declarations: https://github.com/iroco-co/france-public-declarations
 versions: https://github.com/iroco-co/france-public-versions
@@ -25,9 +25,9 @@ governance:
 i18n:
   fr: 
     name: France Services Publics
-    tagline: Services publics français majeurs
+    tagline: Services publics numériques français
     description: | 
-      La collection **France Services Publics** suit les modifications apportées aux conditions d'utilisation des services publics français les plus utilisés.
+      La collection **France Services Publics** suit les modifications apportées aux conditions d'utilisation des services publics numériques français.
     governance:
       Volunteer contributors:
         name: Contributeurs bénévoles
