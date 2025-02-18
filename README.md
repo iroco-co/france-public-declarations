@@ -8,9 +8,9 @@ You can [explore the tracked versions](https://github.com/iroco-co/france-public
 
 The terms you will find in this collection match the following scope:
 
-- **Topic:** <!-- customize to your context -->The services needed to operate the Open Terms Archive engine<!-- until here -->
-- **Jurisdictions:** <!-- customize to your context -->European Union<!-- until here -->
-- **Languages:** <!-- customize to your context -->French<!-- until here -->
+- **Topic:** _ _ _ _ _ ✍️
+- **Jurisdictions:** _ _ _ _ _ ✍️
+- **Languages:** _ _ _ _ _ ✍️
 
 - - -
 
