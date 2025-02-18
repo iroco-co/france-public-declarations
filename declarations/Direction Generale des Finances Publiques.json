@@ -1,6 +1,6 @@
 {
   "name": "Direction Générale des Finances Publiques",
-  "documents": {
+  "terms": {
     "Trackers Policy": {
       "fetch": "https://www.impots.gouv.fr/gestion-des-cookies",
       "select": [

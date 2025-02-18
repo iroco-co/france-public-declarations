@@ -1,6 +1,6 @@
 {
   "name": "Le site national de l'adresse",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://adresse.data.gouv.fr/cgu",
       "select": [

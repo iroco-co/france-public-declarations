@@ -1,6 +1,6 @@
 {
   "name": "Portail de services Chorus Pro",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://portail.chorus-pro.gouv.fr/aife_csm?id=aife_cgu",
       "select": [

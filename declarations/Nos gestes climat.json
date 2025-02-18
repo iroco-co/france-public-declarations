@@ -1,6 +1,6 @@
 {
   "name": "Nos gestes climat",
-  "documents": {
+  "terms": {
     "Privacy Policy": {
       "fetch": "https://nosgestesclimat.fr/politique-de-confidentialite",
       "select": [

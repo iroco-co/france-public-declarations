@@ -1,6 +1,6 @@
 {
   "name": "Choisir le service public",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://choisirleservicepublic.gouv.fr/mentions-legales/",
       "select": [

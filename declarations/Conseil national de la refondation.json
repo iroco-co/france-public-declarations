@@ -1,6 +1,6 @@
 {
   "name": "Conseil national de la refondation",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://conseil-refondation.fr/cgu/",
       "select": [

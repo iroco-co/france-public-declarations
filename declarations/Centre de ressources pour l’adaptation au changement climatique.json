@@ -1,6 +1,6 @@
 {
   "name": "Centre de ressources pour l’adaptation au changement climatique",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.adaptation-changement-climatique.gouv.fr/mentions-legales",
       "select": [

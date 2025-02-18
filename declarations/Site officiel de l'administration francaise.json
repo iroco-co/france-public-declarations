@@ -1,6 +1,6 @@
 {
   "name": "Site officiel de l'administration française",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.service-public.fr/P10050",
       "select": [

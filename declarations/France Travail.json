@@ -1,6 +1,6 @@
 {
   "name": "France Travail",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.francetravail.fr/informations/informations-legales-et-conditio/conditions-generales-dutilisatio.html",
       "select": [

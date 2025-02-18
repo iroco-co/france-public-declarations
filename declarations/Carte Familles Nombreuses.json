@@ -1,6 +1,6 @@
 {
   "name": "Carte Familles Nombreuses",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "select": [
         "[role=\"main\"]"
