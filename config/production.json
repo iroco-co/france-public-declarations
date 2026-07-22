@@ -46,7 +46,8 @@
       "basePath": "/collection-api"
     },
     "logger": {
-      "timestampPrefix": false
+      "timestampPrefix": false,
+      "sendMailOnError": false
     }
   },
   "@opentermsarchive/federation-api": {
